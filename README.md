@@ -1,1 +1,1 @@
-# random-lotto-number-picker
+# lottery-number-picker

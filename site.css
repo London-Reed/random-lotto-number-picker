@@ -1,0 +1,50 @@
+#lotteryApp {
+	background-color: #F48214;
+	width: 510px;
+	height: 275px;
+	border-radius: 25px;
+	font-family: 'Roboto', sans-serif;
+	-webkit-box-shadow: 6px 7px 15px 3px;
+	-moz-box-shadow: 6px 7px 15px 3px;
+	box-shadow: 6px 7px 15px 3px;
+	margin: 0 auto;
+}
+
+.logo {
+	float: left;
+	width: 64px;
+	height: 64px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+.headline {
+	float: left;
+	padding-left: 5px;
+	color: green;
+}
+
+#pickButton {
+	float: left;
+	padding-left: 165px;
+}
+
+.mainNumberSpanAndTitle {
+	
+	padding-top: 120px;
+	padding-left: 50px;
+	color: green;
+}
+
+.bonusNumberSpanAndTitle {
+	
+	padding-top: 5px;
+	padding-left: 50px;
+	color: green;
+}
+
+.goodLuck {
+	float: left;
+	padding-left: 185px;
+	color: green;
+}
